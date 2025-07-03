@@ -1,6 +1,13 @@
 div{
-    border: 5px;
+    border-bottom: 5px;
     margin: 50px;
     padding: 10px;
     text-align: justify;
+}
+.bg{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#title{
+    background-color: cadetblue;
 }
